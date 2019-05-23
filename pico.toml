@@ -1,0 +1,8 @@
+author = "henryoz"
+cart = "cenotes.p8"
+description = "A cave diving adventure"
+name = "cenotes"
+open_pico = true
+src_dir = "src"
+version = "1.0.0"
+watch = true
